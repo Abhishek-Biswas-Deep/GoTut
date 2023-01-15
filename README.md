@@ -13,5 +13,6 @@ A simple approach is used.
 The usage of Git is recommended.
 
 git clone https://github.com/Abhishek-Biswas-Deep/GoTut
+
 After cloning, the project is ready to be played.
 
